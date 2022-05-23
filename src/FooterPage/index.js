@@ -25,7 +25,7 @@ const FooterPagePro = () => {
             </h6>
             <hr className="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style={{ width: "60px" }} />
             <p className="textFooterPrime">
-            O Trashback proporciona aos usuários uma forma de melhorar nosso planeta através da conscientização ambiental. Trazendo inovação junto a sustentabilidade. A plataforma trata-se de fazer com que o seu lixo, lhe traga algum retorno de volta.
+                  O Trashback proporciona aos usuários uma forma de melhorar nosso planeta através da conscientização ambiental. Trazendo inovação junto a sustentabilidade. A plataforma trata-se de fazer com que o seu lixo, lhe traga algum retorno de volta.
             </p>
           </MDBCol>
           <MDBCol md="4" lg="4" xl="4" className="mb-4">
