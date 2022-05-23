@@ -9,9 +9,7 @@ const FooterPagePro = () => {
         <MDBContainer fluid className="text-center text-md-left">
           <MDBRow className="py-4 d-flex align-items-center">
             <MDBCol md="12" lg="5" className="text-center text-md-left mb-4 mb-md-0">
-              <div className="mb-0 text">
-                     Aqui seu lixo vira Recompensa!
-              </div>
+              <h6 className="mb-0 text">Aqui seu lixo vira Recompensa !</h6>
             </MDBCol>
 
           </MDBRow>

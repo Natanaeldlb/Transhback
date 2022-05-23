@@ -9,8 +9,7 @@
     background-image: linear-gradient(to left, #01543a, #012026  );
     width: 100%;
     height: 100%;
-    display: flex;
-    flex-direction: column;
+    
 }
 strong {
     color: #fff
@@ -40,17 +39,15 @@ strong {
     text-decoration: none;
 }
 .text{
-    position:relative;
     left: 450px;
     font-size: 1.5em;
 }
-@media (max-width: 575.98px){
-   .text{
-       display: flex;
-       flex-direction: row;
-       left: 59px;
-       
-   }
+@media (max-width: 500px){
+  
+    .text{
+        left: 48px;
+        
+    }
   
     
 }

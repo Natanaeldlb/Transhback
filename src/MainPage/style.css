@@ -126,7 +126,7 @@ span {
     color: #1c1c1c;
 }
 
-@media (max-width: 575.98px) { 
+@media (max-width: 500px) { 
     .row{
         flex-direction: column;
     }
