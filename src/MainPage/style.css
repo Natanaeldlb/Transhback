@@ -127,7 +127,11 @@ span {
 }
 
 @media (max-width: 575.98px) { 
+    .row{
+        flex-direction: column;
+    }
     .h1Top {
+
         margin-top: 1em;
         font-size: 30px;
         color: #402377;
@@ -143,7 +147,6 @@ span {
     .card {
         display: flex;
         flex-direction: column;
-        justify-content: center;
         align-items: center;
         height: 75%;  
     }
