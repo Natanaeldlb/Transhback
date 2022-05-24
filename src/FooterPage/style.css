@@ -39,13 +39,15 @@ strong {
     text-decoration: none;
 }
 .text{
-    left: 450px;
+    position: relative;
+    left: 460px;
     font-size: 1.5em;
 }
 @media (max-width: 500px){
   
     .text{
-        left: 48px;
+        left: 4px;
+        top: 7px;
         
     }
   
